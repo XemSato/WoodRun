@@ -1,0 +1,122 @@
+
+
+
+main{
+    color: #0C4459;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+
+.gauche{
+    width: 800px;
+    text-align: center;
+}
+
+.Titre{
+    margin-top: 50px;
+    font-size: 52pt;
+}
+
+.Slogan{
+    font-size: 31pt;
+    margin-bottom: 50px;
+}
+
+.DescriptWR>p{
+    
+    font-size: 16pt;
+}
+
+li{
+    margin-left: 300px;
+    text-align: left;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+/*Partie Droite*/
+
+.Colors{
+    background-color: black;
+    width: 600px;
+    border-radius: 100%;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+.Colors>img{
+    max-width: 100%;
+}
+
+
+/*Bouton*/
+
+.achat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+button{
+    padding: 10px;
+    background-color: #A67449;
+    font-size: 18pt;
+    font-weight: bold;
+    border-radius: 40px;
+    border: 0px;
+}
+
+button>a{
+    text-decoration: none;
+    color: white;
+}
+
+.bandeau{
+    width: auto;
+    padding: 30px;
+    background-color: #403333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30pt;
+}
+
+
+.bas{
+  
+    color: #0C4459;
+}
+
+.grid{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 23pt;
+    
+}
+
+.grid>div{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center} 
+.centrer{
+    text-align: center;
+}
+
+.image2{
+    margin-top: 50px;
+    border-radius: 100%;
+    width: 50px;
+    padding: 100px;
+    border: 1px solid black;
+}
+
+.underline{
+    text-decoration: underline;
+  
+}

@@ -1,0 +1,75 @@
+
+.Titre{
+    margin-top: 50px;
+    font-size: 52pt;
+    color: #0C4459;
+    text-align: center;
+}
+
+
+
+.cercle>img{
+    width: 550px;
+    height: 550px;
+    object-fit: contain;
+    border-radius: 100%;
+    border: 1px solid black;
+    background-color: black;
+}
+
+
+main{
+    margin-top: 25px;
+    display: flex;
+    color: #0C4459;
+    justify-content: space-around;
+    font-size: 22pt;
+}
+
+
+.Doc{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+}
+
+form>div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.minimal{
+    font-size: 14pt;
+}
+
+
+.center{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.center>button{
+    background-color: #A67449;
+    font-size: 21pt;
+    padding: 10px;
+    border-radius: 40px;
+    border: 0px solid white;
+
+}
+
+button>a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.Prix{
+    font-size: 30pt;
+}

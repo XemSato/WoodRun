@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Round';
+    src: url(../Font/Typo_Round_Regular_Demo.otf);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    color: white;
+    font-family: Round;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 23pt;
+    background-color: #403333;
+    align-items: center;
+    padding: 10px;
+    border-radius: 0px 0px 100px 100px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h1{
+    margin-left: 10px;
+}
+
+.flex>div{
+    margin-left: 8px;
+}
+
+
+/*Footer*/
+
+
+footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16pt;
+    background-color: #403333;
+    align-items: center;
+    padding: 20px;
+    border-radius: 100px 100px 0px 0px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h2{
+    margin-left: 10px;
+}
+
+.flex>div{
+    margin-left: 8px;
+}
+
