@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Font",
+			"path": "..\\..\\..\\..\\Desktop\\Cour\\SAE202 Web\\Font"
+		},
+		{
+			"name": "WoodRun",
+			"path": "."
+		},
+		{
+			"name": "Img",
+			"path": "..\\..\\..\\..\\Desktop\\Cour\\SAE202 Web\\Img"
+		},
+		{
+			"name": "Js",
+			"path": "..\\..\\..\\..\\Desktop\\Cour\\SAE202 Web\\Js"
+		},
+		{
+			"name": "Style",
+			"path": "..\\..\\..\\..\\Desktop\\Cour\\SAE202 Web\\Style"
+		}
+	],
+	"settings": {}
+}
